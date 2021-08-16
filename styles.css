@@ -1,0 +1,27 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+img {
+	border: 3px solid #b0b0b0;
+	border-radius: 8px;
+}
+
+a img {
+	border: 0px;
+}
+
+div {
+	width: 800px;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+ul {
+	width: 300px;
+	margin: auto;
+	margin-bottom: 20px;
+	text-align: left;
+}
