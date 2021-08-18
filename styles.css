@@ -53,3 +53,14 @@ ul {
 	margin-bottom: 20px;
 	text-align: left;
 }
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #232B32;
+		color: #FFFFFF;
+	}
+
+	a {
+		color: #BBBBFF;
+	}
+}
